@@ -1,0 +1,2 @@
+public class abhjit2 {
+}
